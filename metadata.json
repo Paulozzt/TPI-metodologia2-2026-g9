@@ -1,0 +1,6 @@
+{
+  "name": "Body Paint - Promociones y Reportes",
+  "description": "Sistema integrador de gestión para Body Paint. Permite crear y asignar cupones específicos, simular compras de clientes, validar reglas de descuento y analizar reportes de ventas e indicadores clave.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
